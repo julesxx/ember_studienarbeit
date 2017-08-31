@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8380209a-1dbc-4689-b143-54c51b797436" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/router.js" afterPath="$PROJECT_DIR$/app/router.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/styles/app.css" afterPath="$PROJECT_DIR$/app/styles/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/application.hbs" afterPath="$PROJECT_DIR$/app/templates/application.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+    </list>
+    <ignored path="ember-studienarbeit.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ember-studienarbeit" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/styles/app.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="240" column="14" selection-start-line="240" selection-start-column="14" selection-end-line="240" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="datatable.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/routes/datatable.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="datatable.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/datatable.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/styles/app.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-0VNNBUiV.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-2EUP9wU6.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-2GPVmH8W.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-2PdMiV7C.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-B2ZAVNQN.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-BiDSXtJd.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-Eh74Izqm.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-FHjQVVId.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-HFJnAJC6.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-HiXZpE13.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-L69Ag6r8.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-MxcaXU9m.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-R4uoqItu.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-SMmPjVKt.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-TQBEQn4w.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-Tww7ZDDG.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-U6Qade52.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-WTQDprJl.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-YACOZnB0.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-YAQ8Pxb3.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-a0nf9V1f.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-aA9jbyMq.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-fo7XNcSm.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-jF1MAuXH.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-mznTHGQL.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-p7Q98gFF.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-pDlMPGya.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-wDPb8zJf.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-3dlJdQcu.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-AoJ59xNd.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-CSECqQSt.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-CWhWnOMf.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-CrhbXfkU.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-DopsPxT1.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-EE0CYSia.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-Q94087UL.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-REiw6iNU.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-SRAJN8tq.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-USUBvdsh.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-aD0PnxlQ.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-ckxDy8Gb.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-d1Qr41k2.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-dHKylNQh.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-eCsFKRxG.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-i8JMSPvc.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-jMZS2Bjl.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-l7WzPm60.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-lBZLuPeb.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-laSrFK8X.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-morTbfSE.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-okIT2xVa.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-rkprNI0f.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-sPKmnnyb.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-tXXeMpAj.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-teCchiwR.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-tx9qPJDi.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-0J6Ca0Vp.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-5PuHuU4P.tmp/ember_studienarbeit/ember-studienarbeit/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-5Yy2ZDa3.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-8V2qDhe0.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-L600yPel.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-MiZ4SG8K.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-NP16Ffxw.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-RhaBSyAF.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-ZSnjuhR4.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-aRjALUws.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-cdQFL0HQ.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-drixS6UE.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-xhCSKkYK.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-7Gkf4WDF.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-AYdQ5lXo.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-CeciSy25.tmp/ember_studienarbeit/ember-studienarbeit/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-fX5g3jJl.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-hSAyqkmJ.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-AowzTVsi.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-JwZRP6mZ.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-T90pxfUR.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-pVsP2L9M.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-yZtRzKdg.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-BMJnFMAu.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-FlTzGW1q.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-IwcR2Pbx.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-KLVkgVSH.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-NJ2r3aPG.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-OdfGfruk.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-SXxlS3C0.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-WayNPHmK.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-1iL4bo0e.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-3He8GbuR.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-8KqzTGRg.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-MWEo2da4.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-RzmBgQ5k.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-TJW4JSMW.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-jFPBpYE6.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-jkhVGoGz.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-kMjFZ7cw.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-qqdX7xMA.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-v1N54WIn.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-z36ebbm2.tmp/vendor/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1374" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ember-studienarbeit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ember-studienarbeit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ember-studienarbeit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ember-studienarbeit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ember-studienarbeit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ember-studienarbeit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ember-studienarbeit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ember-studienarbeit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ember-studienarbeit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ember-studienarbeit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ember-studienarbeit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ember-studienarbeit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ember-studienarbeit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8380209a-1dbc-4689-b143-54c51b797436" name="Default" comment="" />
+      <created>1503763115815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503763115815</updated>
+      <workItem from="1503763117695" duration="539000" />
+      <workItem from="1503840815498" duration="87000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="626000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1374" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/styles/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/datatable.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/datatable.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="240" column="14" selection-start-line="240" selection-start-column="14" selection-end-line="240" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes/datatable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
